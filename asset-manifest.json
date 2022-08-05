@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Orizon-academy/static/css/main.5e5ac023.css",
+    "main.js": "/Orizon-academy/static/js/main.7d790d20.js",
+    "static/media/china.jpg": "/Orizon-academy/static/media/china.e2773225cb4a46ea2c85.jpg",
+    "static/media/america.jpg": "/Orizon-academy/static/media/america.565d7afdc388ef4ab2f4.jpg",
+    "static/media/man.jpg": "/Orizon-academy/static/media/man.1485f54eb12b8d979052.jpg",
+    "static/media/woman1.jpg": "/Orizon-academy/static/media/woman1.565376969eecfb76ab16.jpg",
+    "static/media/crop.jpeg": "/Orizon-academy/static/media/crop.433f0bf2ca1ed1d82c52.jpeg",
+    "static/media/woman.jpg": "/Orizon-academy/static/media/woman.1c3c92263b6730e4f79f.jpg",
+    "static/media/blueBg.jpeg": "/Orizon-academy/static/media/blueBg.5a449a6b867252e3e428.jpeg",
+    "static/media/profile.jpg": "/Orizon-academy/static/media/profile.375dc3d3f64781a8b89e.jpg",
+    "index.html": "/Orizon-academy/index.html",
+    "main.5e5ac023.css.map": "/Orizon-academy/static/css/main.5e5ac023.css.map",
+    "main.7d790d20.js.map": "/Orizon-academy/static/js/main.7d790d20.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e5ac023.css",
+    "static/js/main.7d790d20.js"
+  ]
+}
